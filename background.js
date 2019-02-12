@@ -19,7 +19,7 @@ chrome.storage.local.get('tempBgChat', function (obj) {
 })
 chrome.runtime.onConnect.addListener(function (externalPort) {
     externalPort.onDisconnect.addListener(function() {
-        var ignoreError = chrome.runtime.lastError;
+        
         console.log("onDisconnect");
     });
 })

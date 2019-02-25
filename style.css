@@ -1,27 +1,48 @@
 :root {
     --transparent: #0000;
 }
-._3hx- ._1i6a{
+
+._3hx- ._1i6a {
     background: #fff !important;
     /* background: url("https://i.imgur.com/u558Rbj.jpg") !important; */
     background-size: cover !important;
     background-position-y: center !important
 }
-._4_j4{
+
+._4_j4 {
     /* background: url("https://i.imgur.com/u558Rbj.jpg") !important; */
     background-size: cover !important;
     background-position-y: center !important
 }
-._5i_d, ._4rv3, ._3hx- ._5wd4 ._59gq,._aou {
+
+._5i_d,
+._4rv3,
+._3hx- ._5wd4 ._59gq,
+._aou {
     background-color: #fff !important;
 
 }
-time._3oh- {
-    background: #c3c3c3;
-    padding: 4px;
-    border-radius: 25px;
-    color: #fff;
+
+element.style {
+    max-width: 110px;
 }
+
+#facebook ._-kb div {
+    font-family: inherit;
+}
+
+.__6j._43kk {
+    background: #fff !important
+}
+
+time._3oh-,
+._3hx- ._6vu5 ._5w-6 {
+    padding: 4px !important;
+    border-radius: 4px !important;
+    background: #00000026 !important;
+    color: #fff !important;
+}
+
 /*  */
 ._6vu5._6z9d.fbNubFlyoutInner._6vu1 {
     /* border: #0084ff solid 2px; */
@@ -33,14 +54,17 @@ time._3oh- {
     background: rgb(0, 132, 255) !important;
     border-radius: 6px !important;
 }
+
 ._3hx- ._1aa6._31xy {
     background: var(--transparent) !important;
 
 }
-._4tdt._ua1 ._5w1r._3_om._5wdf{
+
+._4tdt._ua1 ._5w1r._3_om._5wdf {
     border-radius: 6px !important;
     background: #f7f7f7;
 }
+
 ._3hx- ._5w1r._31xx {
     background: var(--transparent) !important;
 }
@@ -158,7 +182,7 @@ time._3oh- {
     background: var(--transparent) !important
 }
 
-._1sk5{
+._1sk5 {
     display: none
 }
 
